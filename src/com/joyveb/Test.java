@@ -18,5 +18,7 @@ public class Test {
 	public String test4="";
 	
 	public String test5="";
+	
+	public String test6="";
 }
 
