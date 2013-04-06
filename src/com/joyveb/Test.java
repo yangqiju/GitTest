@@ -12,5 +12,7 @@ public class Test {
 	public String tset="";
 	
 	public String test2="";
+	
+	public String test3="";
 }
 
