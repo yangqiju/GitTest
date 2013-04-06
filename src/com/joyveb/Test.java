@@ -2,13 +2,15 @@ package com.joyveb;
 /**   
  * @Title: Test.java 
  * @Package com.joyveb 
- * @Description: TODO(ÓÃÒ»¾ä»°ÃèÊö¸ÃÎÄ¼ş×öÊ²Ã´) 
- * @author ÑîÆä½Û
- * @date 2013-4-6 ÏÂÎç4:46:13 
+ * @Description: TODO(ï¿½ï¿½Ò»ï¿½ä»°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½Ê²Ã´) 
+ * @author ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ * @date 2013-4-6 ï¿½ï¿½ï¿½ï¿½4:46:13 
  * @version V1.0   
  */
 public class Test {
 
 	public String tset="";
+	
+	public String test2="";
 }
 
