@@ -10,5 +10,7 @@ package com.joyveb;
 public class Test {
 
 	public String tset="";
+	
+	public String test2="";
 }
 
