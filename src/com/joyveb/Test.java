@@ -11,7 +11,7 @@ public class Test {
 
 	public String tset="";
 	
-	public String test2="";
+	public String test2="test2";
 	
 	public String test3="";
 	
