@@ -9,5 +9,6 @@ package com.joyveb;
  */
 public class BranchTest {
 
+	private String eclipseTest="";
 }
 
